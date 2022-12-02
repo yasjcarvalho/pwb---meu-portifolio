@@ -112,7 +112,47 @@ line-height: 22px;
 color: #42B9FC;
 }
 
+.contacts{
+  /* Contact */
 
+  top: 61px;
+  left: 679px;
+  right: 93px;;
+  bottom: 494px;
+
+position: absolute;
+width: 64px;
+height: 31px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+
+color: #42B9FC;
+
+}
+
+.logo{
+  /* F */
+  top: 32px;
+  left: 80px;
+  right: 696px;
+  bottom: 486px;
+width: 60px;
+height: 60px;
+position: absolute;
+font-family: 'Lobster Two', cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 75px;
+
+color: #42B9FC;
+
+
+}
 
 
 ul {
